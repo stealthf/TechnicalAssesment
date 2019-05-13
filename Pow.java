@@ -1,3 +1,4 @@
+//At the beginning I was thinking to calculate x*x n times, but I found it exceeded the time limit. Then I tried another way to do it. 
 class Solution {
     public double myPow(double x, int n) {
         if(n == 0)
